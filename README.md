@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raaghav Bhyana</h1>
-<h3 align="center">As an enthusiastic undergraduate in robotics with a fervor for AI/ML</h3>
+<h3 align="center">As an enthusiastic undergraduate in robotics with a fervor for AI/ML.Currently Working at Tech Mahindra Allyis</h3>
 
-- 🌱 I’m currently learning **pytorch,Go,Django**
+//- 🌱 I’m currently learning **pytorch,Go,Django**
 
 - 📫 How to reach me **raaghavbhyana@gmail.com**
 
